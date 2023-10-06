@@ -1,0 +1,13 @@
+.footer__container{
+    width: 100%;
+    background-color: black;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    color: white;
+    opacity: 30%;
+}

@@ -1,6 +1,6 @@
 .card__container {
     position: relative;
-    border: 3px solid #3e4357;
+    border: 2px solid rgb(139, 139, 139);
     border-radius: 10px;
     width: 330px;
     height: 470px;

@@ -1,6 +1,7 @@
 .home__container {
     width: 90%;
     margin: auto;
+    margin-bottom: 3rem;
     padding-top: 6rem;
     display: flex;
     gap: 2rem;

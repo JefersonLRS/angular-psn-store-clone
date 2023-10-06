@@ -8,8 +8,8 @@
 }
 
 body {
-    background: rgb(2,0,36);
-    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgb(11, 11, 128) 35%, rgb(4, 4, 51) 100%);
+    background: rgb(9, 9, 10);
+    /* background: linear-gradient(70deg, rgb(0, 0, 0) 0%, rgb(12, 12, 77) 45%, rgb(0, 0, 0) 100%); */
 }
 
 html {
